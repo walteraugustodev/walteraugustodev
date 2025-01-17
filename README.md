@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS 
 - 📫 How to reach me ... augustowalterjw@gmail.com
 - 😄 Pronouns: I am normal
-- ⚡ Fun fact: I want to make a videogame someday, and it will be famous, even if it's just for a year or two
+
 
 <!---
 walteraugustodev/walteraugustodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
