@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walteraugustodev and I am currently 16 years old
-- 👀 I’m interested in learning html and css to working as a professional developer...
+- 👀 I’m interested in working as a professional developer...
 - 🌱 I’m currently learning HTML and CSS 
 - 📫 How to reach me ... augustowalterjw@gmail.com
 - 😄 Pronouns: I am normal
